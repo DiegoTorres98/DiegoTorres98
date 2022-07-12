@@ -1,7 +1,5 @@
 
-**DiegoTorres98/DiegoTorres98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Hello, i'm a SCRUM MASTER junior and a frontend begginer.
+Hello, i'm Diego a this is my program world, i'm  a SCRUM MASTER junior and a frontend begginer from Perú.
 
 - 🔭 I’m currently working on jobs about SCRUM MASTER.
 - 🌱 I’m currently learning more about HTML and CSS on React.
